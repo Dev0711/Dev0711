@@ -25,36 +25,6 @@
 
 <div align="center">
   
-### 💻 **Full Stack Developer** | 🎯 **Problem Solver** | 🚀 **Innovation Enthusiast**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 **Education & Background**
-- 🎓 **Computer Science**
-- 🎓 **Software Engineering**
-
-### 🔥 **Areas of Expertise**
-- 🌐 **Backend Development**
-- ⚛️ **Frontend Development** 
-- 🏗️ **Microservices Architecture**
-- ☁️ **Cloud Computing**
-- 🛠️ **DevOps & Automation**
-- 📐 **System Design**
-
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev0711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
