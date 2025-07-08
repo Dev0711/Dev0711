@@ -1,7 +1,5 @@
 <!-- Header with animated typing effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+a+Full+Stack+Developer!;Building+scalable+applications;Spring+Boot+%7C+React+%7C+Java+Expert;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+
 
 <!-- Banner -->
 <p align="center">
