@@ -1,10 +1,19 @@
 <!-- Header with animated typing effect -->
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=55&descAlign=50" width="100%" />
-</p>
+<!-- Basic Introduction -->
+<div align="center">
+  <h1>👋 Hi, I'm a Full Stack Developer</h1>
+  <h3>🚀 Passionate about building scalable applications with Java, Spring Boot, React, and modern technologies</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=flat-square" alt="Backend Focus" />
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-green?style=flat-square" alt="Frontend Focus" />
+    <img src="https://img.shields.io/badge/Focus-System%20Design-orange?style=flat-square" alt="System Design Focus" />
+  </p>
+</div>
+
+<br/>
 
 <!-- About Me Section -->
 ## 🚀 About Me
