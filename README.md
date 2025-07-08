@@ -9,30 +9,44 @@
 <!-- About Me Section -->
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-```yaml
-name: "Full Stack Developer"
-located_in: "Your Location"
-current_job: "Software Engineer"
-education: 
-  - "Computer Science"
-  - "Software Engineering"
+<br/>
 
-fields_of_interests:
-  - "Backend Development"
-  - "Frontend Development"
-  - "Microservices Architecture"
-  - "Cloud Computing"
-  - "DevOps"
-  - "System Design"
+<div align="center">
+  
+### 💻 **Full Stack Developer** | 🎯 **Problem Solver** | 🚀 **Innovation Enthusiast**
 
-currently_learning: 
-  - "Kubernetes"
-  - "AWS Cloud"
-  - "System Design"
-  - "Machine Learning"
-```
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 **Education & Background**
+- 🎓 **Computer Science**
+- 🎓 **Software Engineering**
+
+### 🔥 **Areas of Expertise**
+- 🌐 **Backend Development**
+- ⚛️ **Frontend Development** 
+- 🏗️ **Microservices Architecture**
+- ☁️ **Cloud Computing**
+- 🛠️ **DevOps & Automation**
+- 📐 **System Design**
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev0711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -131,9 +145,8 @@ currently_learning:
 ## 🎯 Current Focus
 
 - 🔭 **Currently working on:** Building scalable microservices with Spring Boot and React
-- 🌱 **Learning:** Kubernetes, AWS Cloud Architecture, and System Design
-- � **Looking to collaborate on:** Open source projects involving Java, Spring Boot, or React
-- �💬 **Ask me about:** Java, Spring Boot, React, Docker, Kafka, System Design
+- 👯 **Looking to collaborate on:** Open source projects involving Java, Spring Boot, or React
+- 💬 **Ask me about:** Java, Spring Boot, React, Docker, Kafka, System Design
 - ⚡ **Fun fact:** I love solving complex problems and building efficient solutions
 
 ## 🌟 Featured Projects
@@ -155,16 +168,6 @@ currently_learning:
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium)
   
-</div>
-
-## � Quote of the Day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-## 🎵 Spotify Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
 </div>
 
 ## 📊 Weekly Development Breakdown
