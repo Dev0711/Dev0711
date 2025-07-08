@@ -115,11 +115,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dev0711&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dev0711/Dev0711/output/snake.svg" alt="Snake animation" />
-</div>
-
 ## 🎯 Current Focus
 
 - 🔭 **Currently working on:** Building scalable microservices with Spring Boot and React
@@ -158,11 +153,7 @@
   <img src="https://img.shields.io/github/followers/Dev0711?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-</div>
+
 
 <!-- Footer -->
 <p align="center">
