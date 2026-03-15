@@ -124,12 +124,12 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev0711&repo=microservices-architecture&theme=radical)](https://github.com/Dev0711/microservices-architecture)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev0711&repo=react-spring-ecommerce&theme=radical)](https://github.com/Dev0711/react-spring-ecommerce)
   
-</div>
+</div> -->
 
 ## 📫 Connect with Me
 
