@@ -63,7 +63,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
@@ -91,28 +90,28 @@
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev0711&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0711&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev0711&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0711&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   
 </div>
 
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0711&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dev0711&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0711&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0711&theme=react-dark&hide_border=true" width="100%"/>
   
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev0711&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Dev0711&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
